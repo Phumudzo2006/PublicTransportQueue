@@ -167,18 +167,3 @@ Queue-based simulation logic
 File parsing techniques
 
 Output formatting
-
-📜 License
-This project is open for educational and learning purposes.
-
-
----
-
-🔥 This one is **excellent for showing data structures + simulation skills** on GitHub.
-
-If you want, next we can:
-- clean memory usage (`unique_ptr`)
-- refactor into classes
-- or write a **combined portfolio README** listing *all* your projects
-
-Just say 👌
